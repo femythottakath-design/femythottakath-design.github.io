@@ -6,6 +6,16 @@ date: 2025-07-01
 
 # Introduction
 
-Welcome to my first blog post!
+Every modern application sends emails.
 
-In this article, we'll build an Email Notification Microservice using Spring Boot.
+Examples include:
+
+- Registration
+- Password Reset
+- Order Confirmation
+
+Instead of sending emails directly, we'll build a dedicated Email Notification Microservice using:
+
+- Spring Boot
+- RabbitMQ
+- Kafka
