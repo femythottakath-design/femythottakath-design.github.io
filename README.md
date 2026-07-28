@@ -1,5 +1,3 @@
-# Hi, I'm Femy 👋
-
 Welcome to my technical blog.
 
 I write about:
