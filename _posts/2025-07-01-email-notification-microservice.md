@@ -1,21 +1,8 @@
----
-layout: post
-title: "Building an Email Notification Microservice"
-date: 2025-07-01
----
+Building an Email Notification Microservice with Spring Boot, RabbitMQ, and Kafka
+Introduction
 
-# Introduction
+Email notifications are an essential part of modern applications. Whether it's sending account verification emails, password reset links, order confirmations, or promotional messages, applications need a reliable way to deliver emails without slowing down user requests.
 
-Every modern application sends emails.
+In this article, we'll build an Email Notification Microservice using Spring Boot. We'll start with a simple REST API and gradually enhance the service by integrating RabbitMQ for asynchronous processing and Kafka for event-driven communication.
 
-Examples include:
-
-- Registration
-- Password Reset
-- Order Confirmation
-
-Instead of sending emails directly, we'll build a dedicated Email Notification Microservice using:
-
-- Spring Boot
-- RabbitMQ
-- Kafka
+By the end of this series, you'll understand how to build a scalable notification service that can be integrated into any microservice architecture.
