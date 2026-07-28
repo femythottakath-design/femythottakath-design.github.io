@@ -11,7 +11,3 @@ I write about:
 - Kafka
 - Docker
 - Kubernetes
-
-## Latest Articles
-
-Coming soon...
