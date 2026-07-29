@@ -345,3 +345,6 @@ In the next article, we will create the Spring Boot project structure and build 
 Next Article:
 
 ➡️ [Part 2 - Creating the Email Notification Microservice with Spring Boot](/email-notification-spring-boot-setup.html)
+[Part 2 – Creating the Email Notification Microservice with Spring Boot](/2026/07/29/email-notification-spring-boot-setup.html)
+
+[Part 2 – Creating the Email Notification Microservice with Spring Boot](/microservices/spring-boot/2026/07/29/email-notification-spring-boot-setup.html)
